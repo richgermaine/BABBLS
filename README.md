@@ -1,0 +1,2 @@
+# BABBLS
+A platform built upon the Ethereum blockchain allowing writers from around the world to be securely paid when their short stories are read on the Babbls App through Smart Contracts. The Babbls App will be on the iOS and Android platforms and contain all the short stories that have been submitted. The user of the Babbls App purchases tokens which are used to read a story, 1 token per story.
